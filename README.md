@@ -1,6 +1,7 @@
-# Inferring Future Success of a Business Based on Internal
-and External Factors #
+# Inferring Future Success of a Business Based on Internal and External Factors 
 
+
+[![Screenshot 2017-06-04 18.05.08.jpg](https://s24.postimg.org/yat4q0a9x/Screenshot_2017-06-04_18.05.08.jpg)](https://postimg.org/image/psjolo3r5/)
 ### What is this repository for? ###
 
 In order to predict if a particular business will do well in
